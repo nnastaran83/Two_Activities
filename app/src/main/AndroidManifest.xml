@@ -15,7 +15,7 @@
             >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".SecondActivity" />
+                android:value=".MainActivity" />
         </activity>
         <activity
             android:name=".MainActivity"
